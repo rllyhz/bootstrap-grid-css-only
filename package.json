@@ -1,0 +1,29 @@
+{
+    "name": "bootstrap-grid-css-only",
+    "description": "CSS Grid System with a similar approach as Bootstrap version 4.",
+    "author": "Rully Ihza Mahendra",
+    "version": "0.0.1",
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "bootstrap",
+        "responsive",
+        "grid",
+        "design"
+    ],
+    "devDependencies": {
+        "gulp": "^4.0",
+        "gulp-autoprefixer": "^4.1.0",
+        "gulp-filter": "^5.1.0",
+        "gulp-line-ending-corrector": "^1.0.2",
+        "gulp-cache": "^1.0.2",
+        "gulp-notify": "^3.1",
+        "gulp-rename": "^1.4.0",
+        "gulp-sass": "^4.0",
+        "gulp-uglifycss": "^1.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rllyhz/bootstrap-grid-css-only.git"
+    }
+}
